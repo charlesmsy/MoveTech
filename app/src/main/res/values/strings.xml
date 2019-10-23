@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">MoveTech</string>
+
+    <string name="welcomeText">Role: Tech</string>
+    <string name="button1">To Task List</string>
+
+    <string-array name="roleList">
+        <item>Origin</item>
+        <item>Destination</item>
+        <item>Terms</item>
+        <item>Item Glossary</item>
+    </string-array>
+
+</resources>
